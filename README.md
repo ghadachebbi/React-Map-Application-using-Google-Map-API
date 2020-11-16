@@ -1,5 +1,5 @@
 # MAP
-Exemple Map ESRI
+Exemple Map ESRI(updates)
 
 To run the project:
 npm install
